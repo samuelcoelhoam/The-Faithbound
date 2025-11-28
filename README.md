@@ -1,98 +1,98 @@
 # ⛪ The Faithbound
 
-Not all faith is blind. Not all betrayal is invisible.
+Nem toda fé é cega. Nem toda traição é invisível.
 
-**The Faithbound** is a strategic investigation game for **Apple TV** and **iPhone**, built with **Swift/SwiftUI** and powered by **Multipeer Connectivity** for seamless multi-device interaction.
-
----
-
-## 💡 About the Game
-
-Welcome to the world of **The Faithbound** — a local multiplayer experience designed to transform the way people play together.
-
-By combining the shared screen of the **Apple TV** with the personal interface of the **iPhone**, the game creates a tense, collaborative, and highly strategic environment where every action matters.
-
-### 🎭 Asymmetric Gameplay
-
-In this asymmetric social deduction game:
-* The **Apple TV** provides the main view of the cult’s progress, rituals, events, and public actions.
-* Each **iPhone** acts as an interactive controller, delivering secret roles, private cards, and hidden actions.
-
-### 👥 Roles
-
-Players take on one of two roles:
-
-* **Cultists:** They work together to expand the cult, gain followers, strengthen their faith, and play action cards to advance their cause.
-* **The Heretic:** Hides among them, sabotaging the cult from within—corrupting followers, disrupting rituals, spreading distrust, and even eliminating cultists to weaken their influence.
-
-The tension rises with every turn as players act, bluff, accuse, and attempt to uncover the hidden traitor before the cult falls apart.
+**The Faithbound** é um jogo de investigação estratégica para **Apple TV** e **iPhone**, construído com **Swift/SwiftUI** e alimentado por **Multipeer Connectivity** para uma interação perfeita entre vários dispositivos.
 
 ---
 
-## 📲 Download
+## 💡 Sobre o Jogo
 
-Start playing today!
+Bem-vindo ao mundo de **The Faithbound** — uma experiência multiplayer local projetada para transformar a maneira como as pessoas jogam juntas.
 
-**Download The Faithbound on the App Store:**
+Ao combinar a tela compartilhada da **Apple TV** com a interface pessoal do **iPhone**, o jogo cria um ambiente tenso, colaborativo e altamente estratégico onde cada ação importa.
+
+### 🎭 Jogabilidade Assimétrica
+
+Neste jogo de dedução social assimétrica:
+* A **Apple TV** fornece a visão principal do progresso do culto, rituais, eventos e ações públicas.
+* Cada **iPhone** atua como um controle interativo, entregando papéis secretos, cartas privadas e ações ocultas.
+
+### 👥 Papéis
+
+Os jogadores assumem um de dois papéis:
+
+* **Cultistas:** Trabalham juntos para expandir o culto, ganhar seguidores, fortalecer sua fé e jogar cartas de ação para promover sua causa.
+* **O Herege:** Esconde-se entre eles, sabotando o culto por dentro — corrompendo seguidores, interrompendo rituais, espalhando desconfiança e até eliminando cultistas para enfraquecer sua influência.
+
+A tensão aumenta a cada turno à medida que os jogadores agem, blefam, acusam e tentam descobrir o traidor oculto antes que o culto desmorone.
+
+---
+
+## 📲 Baixar
+
+Comece a jogar hoje!
+
+**Baixe The Faithbound na App Store:**
 👉 [**The Faithbound**](https://apps.apple.com/br/app/the-faithbound/id6745519979)
 
 ---
 
-## ⚙️ Technologies and Tools
+## ⚙️ Tecnologias e Ferramentas
 
-| Category | Items |
+| Categoria | Itens |
 | :--- | :--- |
-| **Core Technologies** | Swift, SwiftUI, Multipeer Connectivity |
-| **Platforms** | iOS, tvOS |
-| **Development Tools** | Xcode, Figma |
+| **Tecnologias Centrais** | Swift, SwiftUI, Multipeer Connectivity |
+| **Plataformas** | iOS, tvOS |
+| **Ferramentas de Desenvolvimento** | Xcode, Figma |
 
 ---
 
-## 🛠️ Development Skills
+## 🛠️ Habilidades de Desenvolvimento
 
-* **iOS & tvOS** multi-platform development.
-* Networked local gameplay using **Multipeer Connectivity**.
-* State management for multi-device sessions.
-* Asymmetric game design & social deduction mechanics.
-* Interface prototyping and UI/UX for TV + mobile.
-* Group collaboration and agile workflow.
-* Audio integration and lightweight animation.
-* Playtesting and balancing.
-
----
-
-## ▶️ How to Run
-
-### 📋 Requirements
-
-* **Apple TV** (physical device recommended).
-* **5 to 8 iPhones** on the same local network.
-* **iOS 16+** and **tvOS 16+**.
-* Xcode with the latest toolchain (if running via development).
-
-### 🚀 Steps
-
-1.  Download the game on both devices using the link provided in this README — install **The Faithbound** on your Apple TV and on your iPhones.
-2.  Open the game on the **Apple TV** and start a new session. The TV becomes the host and waits for players to join.
-3.  Open the game on your **iPhone**. Your device will automatically detect the Apple TV session through Multipeer Connectivity.
-4.  Join the session from your iPhone and wait for other players to connect (the game supports 5 to 8 iPhones).
-5.  Once all players have joined, start the match from the Apple TV, and each participant will receive their private role and cards on their iPhone.
+* Desenvolvimento multiplataforma **iOS e tvOS**.
+* Jogabilidade local em rede usando **Multipeer Connectivity**.
+* Gerenciamento de estado para sessões multidispositivo.
+* Design de jogo assimétrico e mecânicas de dedução social.
+* Prototipagem de interface e UI/UX para TV + móvel.
+* Colaboração em grupo e fluxo de trabalho ágil.
+* Integração de áudio e animação leve.
+* Playtesting e balanceamento.
 
 ---
 
-## 🖼️ Screenshots
+## ▶️ Como Executar
+
+### 📋 Requisitos
+
+* **Apple TV** (dispositivo físico recomendado).
+* **5 a 8 iPhones** na mesma rede local.
+* **iOS 16+** e **tvOS 16+**.
+* Xcode com o conjunto de ferramentas (toolchain) mais recente (se rodar via desenvolvimento).
+
+### 🚀 Passos
+
+1.  Baixe o jogo em ambos os dispositivos usando o link fornecido neste README — instale **The Faithbound** na sua Apple TV e nos seus iPhones.
+2.  Abra o jogo na **Apple TV** e inicie uma nova sessão. A TV se torna o host e aguarda os jogadores entrarem.
+3.  Abra o jogo no seu **iPhone**. Seu dispositivo detectará automaticamente a sessão da Apple TV através do Multipeer Connectivity.
+4.  Entre na sessão pelo seu iPhone e aguarde outros jogadores se conectarem (o jogo suporta de 5 a 8 iPhones).
+5.  Assim que todos os jogadores entrarem, inicie a partida pela Apple TV, e cada participante receberá seu papel privado e cartas no seu iPhone.
+
+---
+
+## 🖼️ Capturas de Tela
 
 <p align="center">
-  <img alt="Project Promotional Image" src="https://github.com/samuelcoelhoam/The-Faithbound/blob/main/thefaithbound_promotion.jpg">
+  <img alt="Imagem Promocional do Projeto" src="https://github.com/samuelcoelhoam/The-Faithbound/blob/main/thefaithbound_promotion.jpg">
 </p>
 
 <p align="center">
-  <img alt="Game Screens on Apple TV and iPhone" src="https://github.com/samuelcoelhoam/The-Faithbound/blob/main/thefaithbound_screens.jpg">
+  <img alt="Telas do Jogo na Apple TV e iPhone" src="https://github.com/samuelcoelhoam/The-Faithbound/blob/main/thefaithbound_screens.jpg">
 </p>
 
 ---
 
-## 👥 Authors
+## 👥 Autores
 
 <div align="center">
 
@@ -103,23 +103,23 @@ Start playing today!
         <img src="https://github.com/gregscristina.png" width="150px" style="border-radius: 50%;" alt="Grecia Rivera"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Grecia Rivera</span>
       </a><br />
-      <span style="font-size: 14px; color: #777;">Developer</span>
+      <span style="font-size: 14px; color: #777;">Desenvolvedora</span>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/jedissica-rds" target="_blank">
         <img src="https://github.com/jedissica-rds.png" width="150px" style="border-radius: 50%;" alt="Jessica Souza"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Jessica Souza</span>
       </a><br />
-      <span style="font-size: 14px; color: #777;">Developer</span>
+      <span style="font-size: 14px; color: #777;">Desenvolvedora</span>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/Luan-Aiezza" target="_blank">
         <img src="https://github.com/Luan-Aiezza.png" width="150px" style="border-radius: 50%;" alt="Luan Aiezza"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Luan Aiezza</span>
       </a><br />
-      <span style="font-size: 14px; color: #777;">Developer</span>
+      <span style="font-size: 14px; color: #777;">Desenvolvedor</span>
     </td>
-     <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px;">
       <a href="https://github.com/LunaRafaelle" target="_blank">
         <img src="https://github.com/LunaRafaelle.png" width="150px" style="border-radius: 50%;" alt="Luan Aiezza"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Luna Printes</span>
@@ -138,15 +138,16 @@ Start playing today!
         <img src="https://github.com/marianeoliveira23.png" width="150px" style="border-radius: 50%;" alt="Mariane Oliveira"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Mariane Oliveira</span>
       </a><br />
-      <span style="font-size: 14px; color: #777;">Developer</span>
+      <span style="font-size: 14px; color: #777;">Desenvolvedora</span>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/samuelcoelhoam" target="_blank">
         <img src="https://github.com/samuelcoelhoam.png" width="150px" style="border-radius: 50%;" alt="Samuel Coelho"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Samuel Coelho</span>
       </a><br />
-      <span style="font-size: 14px; color: #777;">Developer</span>
-       <td align="center" style="padding: 10px;">
+      <span style="font-size: 14px; color: #777;">Desenvolvedor</span>
+    </td>
+        <td align="center" style="padding: 10px;">
       <a href="https://github.com/xRodrigoSimoes" target="_blank">
         <img src="https://github.com/xRodrigoSimoes.png" width="150px" style="border-radius: 50%;" alt="Rodrigo Simões"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Rodrigo Simões</span>
@@ -156,4 +157,3 @@ Start playing today!
   </tr>
 </table>
 </div>
-
